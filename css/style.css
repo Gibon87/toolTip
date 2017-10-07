@@ -45,7 +45,7 @@ body {
   position: absolute;
   bottom: 30px;
   text-align: center;
-  padding: 20px;
+  padding: 10px;
   box-sizing: border-box;
   transition: .5s;
   transform: perspective(500px) scaleX(0);
@@ -98,16 +98,18 @@ h3 {
 
 .det ul li:nth-child(1) .fa {
   color: #3b5998;
+  font-size: 30px;
 }
 
 .det ul li:nth-child(2) .fa {
-  color: #00aced;
+  color: #111111;
+  font-size: 30px;
 }
 
 .det ul li:nth-child(3) .fa {
-  color: #dd4;
+  color: #1da1f2;
+  font-size: 30px;
 }
-
 .close {
   font-size: 20px;
   position: absolute;
